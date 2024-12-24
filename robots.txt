@@ -1,0 +1,777 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    
+    <!-- Basic -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="google-adsense-account" content="ca-pub-9640626448540628">
+    <!-- Mobile Metas -->
+     <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NPM4ZZCS58"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NPM4ZZCS58');
+</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9640626448540628"
+    crossorigin="anonymous"></script>
+    <!-- Site Metas -->
+    <meta name="keywords" content="website developer Jabalpur,website developer jalandhar,
+    best website design Jabalpur,
+    Jabalpur web developer,
+    Jabalpur web jalandhar,
+    web development company Jabalpur,
+    web development company Jalandhar,
+    affordable web developer Jabalpur,
+    top web development Jabalpur,
+    Jabalpur web design services,
+    professional web developer Jabalpur,
+    custom website development Jabalpur,
+    top website developer,
+professional web development,
+custom website solutions,
+best web design company,
+affordable website development,
+web development services,
+e-commerce website developer,
+SEO friendly website development,
+website redesign services,
+web development agency,
+custom WordPress development,
+full stack web developer,
+small business website design,
+corporate website development,
+best web developer near me,
+website design and development,
+user-friendly web development,
+web development support,
+UX/UI design services,
+front-end web developer,
+website maintenance services,
+custom web application development,
+    " />
+
+
+    <meta name="description" content="CrownCraft Innovations (CCI) Provides budget-friendly, high-quality website and digital marketing services. We create customised, web solutions designed specially to elevate your business presence online. Experience innovation with CrownCraft Innovations!" />
+    <meta name="author" content="Harsh Bhasin, CrownCraft Innovations" />
+  
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="images/logofav.png" type="image/x-icon">
+  
+    <!-- Open Graph (OG) Meta Tags -->
+    <meta property="og:title" content="CrownCraft Innovations - Affordable Website Development" />
+    <meta property="og:description" content="High-quality, customised website development services tailored for your business needs. Boost your online presence with CrownCraft Innovations!" />
+    <meta property="og:image" content="https://example.com/images/og-image.png" />
+    <meta property="og:url" content="https://crowncraftinnovations.in" />
+    <meta property="og:type" content="website" />
+  
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "CrownCraft Innovations",
+        "url": "https://crowncraftinnovations.in",
+        "logo": "https://crowncraftinnovations.in/images/logo.png",
+        "description": "CrownCraft Innovations is dedicated to crafting affordable, high-quality, and user-friendly websites for customers. We specialise in custom web solutions that empower businesses to succeed online."
+      }
+      </script>
+      
+    <!-- Canonical Link -->
+    <link rel="canonical" href="https://crowncraftinnovations.in" />
+  
+    <title>CrownCraft Innovations</title>
+  
+    <!-- Stylesheets -->
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+    <link href="css/font-awesome.min.css" rel="stylesheet" />
+    <link href="css/style.css" rel="stylesheet" />
+    <link href="css/responsive.css" rel="stylesheet" />
+  </head>
+  
+<body>
+
+  <div class="hero_area">
+
+    <div class="hero_bg_box">
+      <div class="bg_img_box">
+        <img src="images/hero-bg.png" alt="">
+      </div>
+    </div>
+
+    <!-- header section strats -->
+    <header class="header_section">
+      <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg custom_nav-container ">
+          <a class="navbar-brand" href="index.html">
+            <span>
+              <img src="./images/logo.png" alt="" srcset=""  style="width: 60px;margin-top: -15px; margin-left: -5px; height: 50px;">
+             
+            </span>
+          </a>
+
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class=""> </span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav  ">
+              <li class="nav-item active">
+                
+                <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="about.html"> About</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="service.html">Services</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="why.html">Why Us</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="team.html">Team</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="contact.html"> </i> Contact US</a>
+              </li>
+            </ul>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <!-- end header section -->
+    <!-- slider section -->
+    <section class="slider_section ">
+      <div id="customCarousel1" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="container ">
+              <div class="row">
+                <div class="col-md-6 ">
+                  <div class="detail-box">
+                    <h1>
+                      Website Development 
+                    </h1>
+                    <p> We are currently focused on providing top-notch website development and digital marketing services in Jalandhar and Jabalpur, helping businesses grow online with ease and affordability. </p>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="img-box">
+                    <img src="images/slider-img.png" alt="Creative website design" loading="lazy">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item ">
+            <div class="container ">
+              <div class="row">
+                <div class="col-md-6 ">
+                  <div class="detail-box">
+                    <h1>
+                      Digital <br> Marketing
+                    </h1>
+                    <p>
+                      Grow your business online with our simple and effective digital marketing solutions. From social media to SEO, all under one package          
+                    </p>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="img-box">
+                    <img src="images/slider-img.png" alt="Creative website design" loading="lazy">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="container ">
+              <div class="row">
+                <div class="col-md-6 ">
+                  <div class="detail-box">
+                    <h1>
+                      Website <br> Design
+                    </h1>
+                    <p> We specialise in website design and redevelopment, creating user-friendly, high-quality, and affordable websites that help your business grow online and rank better on search engines. </p>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="img-box">
+                    <img src="images/slider-img.png" alt="Creative website design" loading="lazy">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <ol class="carousel-indicators" role="tablist">
+          <li data-target="#customCarousel1" data-slide-to="0" class="active" aria-label="Slide 1"></li>
+          <li data-target="#customCarousel1" data-slide-to="1" aria-label="Slide 2"></li>
+          <li data-target="#customCarousel1" data-slide-to="2" aria-label="Slide 3"></li>
+        </ol>
+      </div>
+
+    </section>
+    <!-- end slider section -->
+  </div>
+
+
+  <!-- service section -->
+
+  <section class="service_section layout_padding">
+    <div class="service_container">
+      <div class="container ">
+        <div class="heading_container heading_center">
+          <h2>
+            Our <span>Services</span>
+          </h2><p>
+            At Crown Craft Innovations, we offer a range of website development & Marketing strategies, from custom designs to user-friendly solutions, all tailored to fit your budget and help your business grow online.
+          </p>
+          
+        </div>
+        <div class="row">
+          <div class="col-md-4 ">
+            <div class="box ">
+              <div class="img-box">
+                <img src="images/s1.png" alt="">
+              </div>
+              <div class="detail-box">
+                <h5>
+                  Website Development
+                </h5>
+                <p>
+                 We Build Custom business websites, <br>E-commerce solutions<br> Portfolio and personal websites.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 ">
+            <div class="box ">
+              <div class="img-box">
+                <img src="images/s2.png" alt="">
+              </div>
+              <div class="detail-box">
+                <h5>
+                  Website Design
+                </h5>
+                <p>
+                  Responsive and mobile-friendly designs <br> Intuitive UI/UX <br> Modernisation of existing websites
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 ">
+            <div class="box ">
+              <div class="img-box">
+                <img src="images/s3.png" alt="">
+              </div>
+              <div class="detail-box">
+                <h5>
+                  Digital Marketing
+                </h5>
+                <p> Boost your business with SEO, social media marketing, etc. That help you reach more customers and grow faster. </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--
+        <div class="btn-box">
+          <a href="">
+            View All
+          </a>
+        </div>
+        -->
+      </div>
+    </div>
+  </section>
+
+  <!-- end service section -->
+
+
+  <!-- about section -->
+
+  <section class="about_section layout_padding">
+    <div class="container  ">
+      <div class="heading_container heading_center">
+        <h2>
+          About <span>CrownCraft Innovations</span>
+        </h2>
+        <p>
+            We create the best websites with care, ensuring top quality at prices that value your hard-earned money
+        </p>
+      </div>
+      <div class="row">
+        <div class="col-md-6 ">
+          <div class="img-box">
+            <img src="images/about-img.png" alt="">
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="detail-box">
+            <h3>
+              We Are CrownCraft Innovators
+            </h3>
+            <p>
+                At CrownCraft Innovations, we are a team of creative experts from Lovely Professional University (LPU), with real-world experience in web development. After delivering high-quality websites while working with top organisations, we now create amazing websites on our own. We focus on delivering custom, easy-to-use, and creative websites that match your needs. 
+                </p>
+                <p>Let’s build something amazing together at very low prices</p>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- end about section -->
+
+  <!-- why section -->
+
+  <section class="why_section layout_padding">
+    <div class="container">
+      <div class="heading_container heading_center">
+        <h2>
+          Why Choose <span>Crown Craft Innovations</span>
+        </h2>
+      </div>
+      <div class="why_container">
+        <div class="box">
+          <div class="img-box">
+            <img src="images/w1.png" alt="">
+          </div>
+          <div class="detail-box">
+            <h5>
+              Customised Solutions
+            </h5>
+            <p>
+              We understand every business is unique. Our team crafts tailored websites to match your specific needs and goals.
+            </p>
+          </div>
+        </div>
+        <div class="box">
+          <div class="img-box">
+            <img src="images/w2.png" alt="">
+          </div>
+          <div class="detail-box">
+            <h5>
+              Modern Designs
+            </h5>
+            <p>
+              We deliver visually appealing and user-friendly designs that leave a lasting impression on your audience.
+            </p>
+          </div>
+        </div>
+        <div class="box">
+          <div class="img-box">
+            <img src="images/w3.png" alt="">
+          </div>
+          <div class="detail-box">
+            <h5>
+              Affordable Pricing
+            </h5>
+            <p>
+              Get premium-quality websites without burning a hole in your pocket.
+            </p>
+          </div>
+        </div>
+        <div class="box">
+          <div class="img-box">
+            <img src="images/w4.png" alt="">
+          </div>
+          <div class="detail-box">
+            <h5>
+              Happy Customers
+            </h5>
+            <p>
+              Get high-quality websites at an affordable price, delivered on time, with ongoing support from our experienced team.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- end why section -->
+
+  <!-- team section -->
+  <section class="team_section layout_padding">
+    <div class="container-fluid">
+      <div class="heading_container heading_center">
+        <h2 class="">
+          Our <span> Team</span>
+        </h2>
+      </div>
+
+      <div class="team_container">
+        <div class="row">
+          <div class="col-lg-3 col-sm-6">
+            <div class="box ">
+              <div class="img-box">
+                <img src="images/team-1.jpg" class="img1" alt="">
+              </div>
+              <div class="detail-box">
+                <h5>
+                  Harsh Bhasin
+                </h5>
+                <p>
+                  Founder & Director
+                </p>
+              </div>
+              <div class="social_box">
+                <a href="#">
+                  <i class="fa fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a href="#">
+                  <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a>
+                <a href="#">
+                  <i class="fa fa-linkedin" aria-hidden="true"></i>
+                </a>
+                <a href="#">
+                  <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+                <a href="#">
+                  <i class="fa fa-youtube-play" aria-hidden="true"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <div class="box ">
+              <div class="img-box">
+                <img src="images/team-2.jpg" class="img1" alt="">
+              </div>
+              <div class="detail-box">
+                <h5>
+                  Siddharth Mallick
+                </h5>
+                <p>
+                  Consultant HR
+                </p>
+              </div>
+              <div class="social_box">
+                <a href="#">
+                  <i class="fa fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a href="#">
+                  <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a>
+                <a href="#">
+                  <i class="fa fa-linkedin" aria-hidden="true"></i>
+                </a>
+                <a href="#">
+                  <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+                <a href="#">
+                  <i class="fa fa-youtube-play" aria-hidden="true"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <div class="box ">
+              <div class="img-box">
+                <img src="images/team-3.jpg" class="img1" alt="">
+              </div>
+              <div class="detail-box">
+                <h5>
+                  Rahul Kumar
+                </h5>
+                <p>
+                  Manager
+                </p>
+              </div>
+              <div class="social_box">
+                <a href="#">
+                  <i class="fa fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a href="#">
+                  <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a>
+                <a href="#">
+                  <i class="fa fa-linkedin" aria-hidden="true"></i>
+                </a>
+                <a href="#">
+                  <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+                <a href="#">
+                  <i class="fa fa-youtube-play" aria-hidden="true"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <div class="box ">
+              <div class="img-box">
+                <img src="images/team-4.jpg" class="img1" alt="">
+              </div>
+              <div class="detail-box">
+                <h5>
+                  Om
+                </h5>
+                <p>
+                  Team Leader
+                </p>
+              </div>
+              <div class="social_box">
+                <a href="#">
+                  <i class="fa fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a href="#">
+                  <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a>
+                <a href="#">
+                  <i class="fa fa-linkedin" aria-hidden="true"></i>
+                </a>
+                <a href="#">
+                  <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+                <a href="#">
+                  <i class="fa fa-youtube-play" aria-hidden="true"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- end team section -->
+
+
+  <!-- client section -->
+
+  <section class="client_section layout_padding">
+    <div class="container">
+      <div class="heading_container heading_center psudo_white_primary mb_45">
+        <h2>
+          What says our <span>Customers</span>
+        </h2>
+      </div>
+      <div class="carousel-wrap ">
+        <div class="owl-carousel client_owl-carousel">
+          <div class="item">
+            <div class="box">
+              <!-- <div class="img-box">
+                <img src="images/client1.jpg" alt="" class="box-img">
+              </div>-->
+              <div class="detail-box">
+                <div class="client_id">
+                  <div class="client_info">
+                    <h6>
+                      Pushpendra Singh
+                    </h6>
+                    <p>
+                      Rewari, Rajasthan, India
+                    </p>
+                  </div>
+                  <i class="fa fa-quote-left" aria-hidden="true"></i>
+                </div>
+                <p>
+                  I needed a website for my project work, and CrownCraft Innovations did an amazing job. The team understood my requirements and delivered a professional website quickly. Highly recommend them for great service at a good price!</p>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="box">
+               <!--
+              <div class="img-box">
+                <img src="images/client2.jpg" alt="" class="box-img">
+              </div>
+              -->
+              <div class="detail-box">
+                <div class="client_id">
+                  <div class="client_info">
+                    <h6>
+                      Anurag Mishra
+                    </h6>
+                    <p>
+                      Varanasi, Uttar Pradesh, India
+                    </p>
+                  </div>
+                  <i class="fa fa-quote-left" aria-hidden="true"></i>
+                </div>
+                <p>
+                  I needed a modern and fast website for my startup, and CrownCraft Innovations is working on it really well. The site is still under development, but their team is very helpful and quick to reply. I’m happy with how it’s shaping up!
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="box">
+              <!--
+              
+              <div class="img-box">
+                <img src="images/client1.jpg" alt="" class="box-img">
+              </div>
+              -->
+              <div class="detail-box">
+                <div class="client_id">
+                  <div class="client_info">
+                    <h6>
+                      Vishal Raj
+                    </h6>
+                    <p>
+                      Indore, Madhya Pradesh, India
+                    </p>
+                  </div>
+                  <i class="fa fa-quote-left" aria-hidden="true"></i>
+                </div>
+                <p>
+                  Excellent service from start to now! CrownCraft Innovations is making a user-friendly website for my café, and it’s looking just how I imagined. The site is still under development, but they keep me updated at every step. Great work so far!
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="box">
+              <!--
+              <div class="img-box">
+                <img src="images/client2.jpg" alt="" class="box-img">
+              </div>
+              -->
+              <div class="detail-box">
+                <div class="client_id">
+                  <div class="client_info">
+                    <h6>
+                      Sangam Mehta
+                    </h6>
+                    <p>
+                      Sirsa, Haryana, India
+                    </p>
+                  </div>
+                  <i class="fa fa-quote-left" aria-hidden="true"></i>
+                </div>
+                <p>
+                  I asked CCI to make a website for my centre. It is still under development, but the design so far is looking really nice and easy for students to use. The team is friendly and listens to my ideas. I’m happy with their work till now!
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- end client section -->
+
+
+  <!-- info section -->
+
+  <section class="info_section layout_padding2">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 col-lg-5 info_col style="margin-left:50px">
+          <div class="info_contact">
+            <h4>
+              Address
+            </h4>
+            <div class="contact_link_box">
+              <a href="">
+                <i class="fa fa-map-marker" aria-hidden="true"></i>
+                <span>
+                   Near LPU Main Gate, G.T. Road,
+Phagwara, PB - 144411
+                </span>
+              </a>
+              <a href="">
+                <i class="fa fa-map-marker" aria-hidden="true"></i>
+                <span>
+                  Near Mastana Chowk, Ranjhi, Jabalpur, MP - 482005
+                </span>
+              </a>
+              <a href="">
+                <i class="fa fa-phone" aria-hidden="true"></i>
+                <span>
+                  Call +91 9098835618
+                </span>
+              </a>
+              <a href="/cdn-cgi/l/email-protection#c4a7abaab0a5a7b084a7b6abb3aaa7b6a5a2b0adaaaaabb2a5b0adabaab7eaadaa" ">
+                <i class="fa fa-envelope" aria-hidden="true"></i>
+                <span>
+                 <span class="__cf_email__" data-cfemail="93f0fcfde7f2f0e7d3f0e1fce4fdf0e1f2f5e7fafdfdfce5f2e7fafcfde0bdfafd">[email&#160;protected]</span>
+                </span>
+              </a>
+            </div>
+          </div>
+          <div class="info_social">
+            <a href="https://www.linkedin.com/in/crown-craft-innovations-8805042aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+              <i class="fa fa-linkedin" aria-hidden="true"></i>
+            </a>
+            <a href="https://www.instagram.com/crowncraftinnovations/profilecard/?igsh=MXV4YTVkaHlqMWVsMg== ">
+              <i class="fa fa-instagram" aria-hidden="true"></i>
+            </a>
+          </div>
+        </div>
+        <div class="col-md-5 col-lg-4 mx-auto info_col" style="margin-left:550px;">
+
+          <div class="info_detail">
+            <h5>
+              Request a callback for quotation: 
+            </h5>
+<form
+  action="https://formspree.io/f/xrbgdbke"
+  method="POST"
+>
+  <label>
+    Your Number:
+    <input type="number" name="number">
+  </label>
+    <label>
+      Your message:
+      <textarea 
+        name="message" 
+        id="message" 
+        class="form-control w-100" 
+        style="height: 60px; width: 100px;" 
+        placeholder="Enter your message" 
+        required
+      ></textarea>
+    </label>
+    
+  </label>
+  
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit"
+  style="border-radius: 10px;" 
+  >Send</button>
+</form>
+          </div>
+        </div>
+     
+      </div>
+    </div>
+    <div style="margin-left: 10px;">
+    @ <span id="displayYear"></span> &nbsp; By
+    CrownCraft Innovations
+    <a href="./policy.html">Read Our Privacy Policy</a>
+  </div>
+  </section>
+
+  
+  
+  <!-- footer section -->
+  <!-- jQery -->
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+  <!-- popper js -->
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+  </script>
+  <!-- bootstrap js -->
+  <script type="text/javascript" src="js/bootstrap.js"></script>
+  <!-- owl slider -->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js">
+  </script>
+  <!-- custom js -->
+  <script type="text/javascript" src="js/custom.js"></script>
+  <!-- Google Map -->
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCh39n5U-4IoWpsVGUHWdqB6puEkhRLdmI&callback=myMap">
+  </script>
+  <!-- End Google Map -->
+
+</body>
+
+</html>
