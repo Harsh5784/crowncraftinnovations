@@ -15,9 +15,9 @@ body {
   bottom: 20px; /* Adjust the distance from the bottom as needed */
   right: 20px; /* Adjust the distance from the right as needed */
   width: 400px; /* Increased width for desktop */
-  height: 700px; /* Increased height for desktop */
+  height: 100%; /* Increased height for desktop */
   border: none; /* Removes any border */
-  z-index: 9999; /* Ensures it stays on top of all other content */
+  z-index: 11; /* Ensures it stays on top of all other content */
 }
 
 /* Adjustments for Mobile and Tablet Views */
@@ -185,6 +185,7 @@ a:focus {
   font-weight: bold;
   font-size: 24px;
   color: #ffffff;
+  z-index: 2;
 }
 
 .custom_nav-container {
@@ -193,6 +194,7 @@ a:focus {
 
 .custom_nav-container .navbar-nav {
   margin-left: auto;
+  z-index: 20;
 }
 
 .custom_nav-container .navbar-nav .nav-item .nav-link {
