@@ -12,7 +12,7 @@
   width: 700px; /* Increased width for desktop */
   height: 700px; /* Increased height for desktop */
   border: none; /* Removes any border */
-  z-index: 9999; /* Ensures it stays on top of all other content */
+  z-index: 5; /* Ensures it stays on top of all other content */
 }
 
 /* Adjustments for Mobile and Tablet Views */
@@ -60,8 +60,11 @@
   .custom_nav-container .navbar-nav {
     padding-top: 15px;
     align-items: center;
-  }
 
+  }
+.navbar-nav {
+  z-index: 50;
+}
   .custom_nav-container .navbar-nav .nav-item .nav-link {
     padding: 5px 25px;
     margin: 5px 0;
