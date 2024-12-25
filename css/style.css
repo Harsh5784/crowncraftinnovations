@@ -14,35 +14,35 @@ body {
   position: fixed; /* Fixes the position relative to the viewport */
   bottom: 20px; /* Adjust the distance from the bottom as needed */
   right: 20px; /* Adjust the distance from the right as needed */
-  width: 400px; /* Increased width for desktop */
-  height: 100%; /* Increased height for desktop */
+  width: 700px; /* Increased width for desktop */
+  height: 700px; /* Increased height for desktop */
   border: none; /* Removes any border */
-  z-index: 11; /* Ensures it stays on top of all other content */
+  z-index: 9999; /* Ensures it stays on top of all other content */
 }
 
 /* Adjustments for Mobile and Tablet Views */
 
 /* Mobile View (Portrait & Landscape) */
-@media only screen and (max-width: 480px) {
-  #chatbot-frame {
-    
-  position: fixed; /* Fixes the position relative to the viewport */
-    width: 250px; /* Adjust width for mobile */
-    height: 350px; /* Adjust height for mobile */
-    bottom: 10px; /* Adjust the distance from the bottom as needed */
-    right: 10px; /* Adjust the distance from the right as needed */
+@media only screen and (max-width: 80px) {
+  #chatbottt {
+    position: fixed; /* Fixes the position relative to the viewport */
+    width: 480px; /* Adjust width for mobile */
+    height: 1080px; /* Adjust height for mobile */
+    bottom: 2px; /* Adjust the distance from the bottom as needed */
+    right: 2px; /* Adjust the distance from the right as needed */
+    z-index: 999;
+    margin-top: -250px;
   }
 }
 
 /* Tablet View (Portrait & Landscape) */
 @media only screen and (max-width: 768px) {
-  #chatbot-frame {
-    
-  position: fixed; /* Fixes the position relative to the viewport */
-    width: 270px; /* Adjust width for tablets */
-    height: 370px; /* Adjust height for tablets */
-    bottom: 15px; /* Adjust the distance from the bottom as needed */
-    right: 15px; /* Adjust the distance from the right as needed */
+  #chatbottt {
+    position: fixed; /* Fixes the position relative to the viewport */
+    width: 768px; /* Adjust width for tablets */
+    height: 1080px; /* Adjust height for tablets */
+    bottom: 3px; /* Adjust the distance from the bottom as needed */
+    right: 2px; /* Adjust the distance from the right as needed */
   }
 }
 
@@ -185,7 +185,6 @@ a:focus {
   font-weight: bold;
   font-size: 24px;
   color: #ffffff;
-  z-index: 2;
 }
 
 .custom_nav-container {
@@ -194,7 +193,6 @@ a:focus {
 
 .custom_nav-container .navbar-nav {
   margin-left: auto;
-  z-index: 20;
 }
 
 .custom_nav-container .navbar-nav .nav-item .nav-link {

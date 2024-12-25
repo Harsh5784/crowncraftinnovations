@@ -197,6 +197,41 @@ a:focus {
   }
 }
 
+#chatbottt {
+  position: fixed; /* Fixes the position relative to the viewport */
+  bottom: 20px; /* Adjust the distance from the bottom as needed */
+  right: 20px; /* Adjust the distance from the right as needed */
+  width: 700px; /* Increased width for desktop */
+  height: 700px; /* Increased height for desktop */
+  border: none; /* Removes any border */
+  z-index: 9999; /* Ensures it stays on top of all other content */
+}
+
+/* Adjustments for Mobile and Tablet Views */
+
+/* Mobile View (Portrait & Landscape) */
+@media only screen and (max-width: 80px) {
+  #chatbottt {
+    position: fixed; /* Fixes the position relative to the viewport */
+    width: 480px; /* Adjust width for mobile */
+    height: 1080px; /* Adjust height for mobile */
+    bottom: 2px; /* Adjust the distance from the bottom as needed */
+    right: 2px; /* Adjust the distance from the right as needed */
+    z-index: 999;
+    margin-top: -250px;
+  }
+}
+
+/* Tablet View (Portrait & Landscape) */
+@media only screen and (max-width: 768px) {
+  #chatbottt {
+    position: fixed; /* Fixes the position relative to the viewport */
+    width: 768px; /* Adjust width for tablets */
+    height: 1080px; /* Adjust height for tablets */
+    bottom: 3px; /* Adjust the distance from the bottom as needed */
+    right: 2px; /* Adjust the distance from the right as needed */
+  }
+}
 .custom_nav-container .nav_search-btn {
   width: 35px;
   height: 35px;
