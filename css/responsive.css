@@ -5,7 +5,7 @@
 
 @media (max-width: 1120px) {}
 
-#chatbottt {
+#bot {
   position: fixed; /* Fixes the position relative to the viewport */
   bottom: 20px; /* Adjust the distance from the bottom as needed */
   right: 20px; /* Adjust the distance from the right as needed */
