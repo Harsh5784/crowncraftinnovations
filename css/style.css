@@ -10,7 +10,7 @@ body {
   padding: 90px 0;
 }
 
-#chatbot-frame {
+#chatbottt {
   position: fixed; /* Fixes the position relative to the viewport */
   bottom: 20px; /* Adjust the distance from the bottom as needed */
   right: 20px; /* Adjust the distance from the right as needed */
@@ -25,6 +25,8 @@ body {
 /* Mobile View (Portrait & Landscape) */
 @media only screen and (max-width: 480px) {
   #chatbot-frame {
+    
+  position: fixed; /* Fixes the position relative to the viewport */
     width: 250px; /* Adjust width for mobile */
     height: 350px; /* Adjust height for mobile */
     bottom: 10px; /* Adjust the distance from the bottom as needed */
@@ -35,6 +37,8 @@ body {
 /* Tablet View (Portrait & Landscape) */
 @media only screen and (max-width: 768px) {
   #chatbot-frame {
+    
+  position: fixed; /* Fixes the position relative to the viewport */
     width: 270px; /* Adjust width for tablets */
     height: 370px; /* Adjust height for tablets */
     bottom: 15px; /* Adjust the distance from the bottom as needed */
