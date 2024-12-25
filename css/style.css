@@ -11,31 +11,31 @@ body {
 }
 
 #chatbot-frame {
-  position: fixed; /* Fixes the position relative to the viewport */
-  top: 0;
-  left: 0;
-  width: 100%; /* Use 100% of the parent container's width */
-  height: 100%; /* Use 100% of the parent container's height */
-  border: none; /* Removes any border */
-  z-index: 9999; /* Ensures it stays on top of all other content */
+    position: fixed; /* Fixes the position relative to the viewport */
+    top: 0;
+    left: 0;
+    width: 100%; /* Use 100% of the parent container's width */
+    height: 100%; /* Use 100% of the parent container's height */
+    border: none; /* Removes any border */
+    z-index: 9999; /* Ensures it stays on top of all other content */
 }
 
 /* Mobile and Tablet Views */
 
 /* Mobile View (Portrait & Landscape) */
 @media only screen and (max-width: 480px) {
-  #chatbot-frame {
-      width: 100%; /* Full width for mobile */
-      height: 100vh; /* Full height of the viewport */
-  }
+    #chatbot-frame {
+        width: 100%; /* Full width for mobile */
+        height: 100vh; /* Full height of the viewport */
+    }
 }
 
 /* Tablet View (Portrait & Landscape) */
 @media only screen and (max-width: 768px) {
-  #chatbot-frame {
-      width: 100%; /* Full width for tablets */
-      height: 100vh; /* Full height of the viewport */
-  }
+    #chatbot-frame {
+        width: 100%; /* Full width for tablets */
+        height: 100vh; /* Full height of the viewport */
+    }
 }
 
 
