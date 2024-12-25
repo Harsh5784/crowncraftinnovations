@@ -12,35 +12,36 @@ body {
 
 #chatbot-frame {
   position: fixed; /* Fixes the position relative to the viewport */
-  bottom: 0; /* Position it at the bottom of the viewport */
-  right: 0; /* Position it at the right of the viewport */
-  width: 100vw; /* Set width (adjust as needed) */
-  height: 100vh; /* Set height (adjust as needed) */
+  bottom: 20px; /* Adjust the distance from the bottom as needed */
+  right: 20px; /* Adjust the distance from the right as needed */
+  width: 400px; /* Increased width for desktop */
+  height: 700px; /* Increased height for desktop */
   border: none; /* Removes any border */
   z-index: 9999; /* Ensures it stays on top of all other content */
 }
 
-/* Mobile and Tablet Views */
+/* Adjustments for Mobile and Tablet Views */
 
 /* Mobile View (Portrait & Landscape) */
 @media only screen and (max-width: 480px) {
   #chatbot-frame {
-      width: 100%; /* Full width for mobile */
-      height: 100%; /* Full height of the viewport */
-      bottom: 0; /* Stick to the bottom */
-      right: 0; /* Stick to the right */
+    width: 250px; /* Adjust width for mobile */
+    height: 350px; /* Adjust height for mobile */
+    bottom: 10px; /* Adjust the distance from the bottom as needed */
+    right: 10px; /* Adjust the distance from the right as needed */
   }
 }
 
 /* Tablet View (Portrait & Landscape) */
 @media only screen and (max-width: 768px) {
   #chatbot-frame {
-      width: 100%; /* Full width for tablets */
-      height: 100vh; /* Full height of the viewport */
-      bottom: 0; /* Stick to the bottom */
-      right: 0; /* Stick to the right */
+    width: 270px; /* Adjust width for tablets */
+    height: 370px; /* Adjust height for tablets */
+    bottom: 15px; /* Adjust the distance from the bottom as needed */
+    right: 15px; /* Adjust the distance from the right as needed */
   }
 }
+
 
 
 .layout_padding2 {
