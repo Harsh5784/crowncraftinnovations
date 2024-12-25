@@ -9,41 +9,36 @@ body {
 .layout_padding {
   padding: 90px 0;
 }
+
 #chatbot-frame {
-
+  position: fixed; /* Fixes the position relative to the viewport */
+  top: 0;
+  left: 0;
+  width: 100%; /* Use 100% of the parent container's width */
+  height: 100%; /* Use 100% of the parent container's height */
+  border: none; /* Removes any border */
+  z-index: 9999; /* Ensures it stays on top of all other content */
 }
 
-/* Media Queries to adjust iframe on different screen sizes */
-
-/* Tablet View (Portrait & Landscape) */
-@media only screen and (max-width: 768px) {
-  #chatbot-frame {
-      width: 100%; /* Take full width */
-      height: 100%; /* Take full height */
-      position: fixed; /* Fixes the position relative to the viewport */
-      top: 0;
-      left: 0;
-      width: 100vw; /* 100% of the viewport width */
-      height: 100vh; /* 100% of the viewport height */
-      border: none; /* Removes any border */
-      z-index: 9999; /* Ensures it stays on top of all other content */
-  }
-}
+/* Mobile and Tablet Views */
 
 /* Mobile View (Portrait & Landscape) */
 @media only screen and (max-width: 480px) {
   #chatbot-frame {
-      width: 100%; /* Full width */
-      position: fixed; /* Fixes the position relative to the viewport */
-      top: 0;
-      left: 0;
-      width: 100vw; /* 100% of the viewport width */
-      height: 100vh; /* 100% of the viewport height */
-      border: none; /* Removes any border */
-      z-index: 9999; /* Ensures it stays on top of all other content */
-      height: 100%; /* Full height */
+      width: 100%; /* Full width for mobile */
+      height: 100vh; /* Full height of the viewport */
   }
 }
+
+/* Tablet View (Portrait & Landscape) */
+@media only screen and (max-width: 768px) {
+  #chatbot-frame {
+      width: 100%; /* Full width for tablets */
+      height: 100vh; /* Full height of the viewport */
+  }
+}
+
+
 .layout_padding2 {
   padding: 75px 0;
 }
