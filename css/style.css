@@ -9,7 +9,15 @@ body {
 .layout_padding {
   padding: 90px 0;
 }
-
+#chatbot-frame {
+  position: fixed; /* Fixes the position relative to the viewport */
+  top: 0;
+  left: 0;
+  width: 100vw; /* 100% of the viewport width */
+  height: 100vh; /* 100% of the viewport height */
+  border: none; /* Removes any border */
+  z-index: 9999; /* Ensures it stays on top of all other content */
+}
 .layout_padding2 {
   padding: 75px 0;
 }
