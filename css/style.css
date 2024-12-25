@@ -14,8 +14,8 @@ body {
   position: fixed; /* Fixes the position relative to the viewport */
   bottom: 0; /* Position it at the bottom of the viewport */
   right: 0; /* Position it at the right of the viewport */
-  width: 100px; /* Set width (adjust as needed) */
-  height: 100px; /* Set height (adjust as needed) */
+  width: 100vw; /* Set width (adjust as needed) */
+  height: 100vh; /* Set height (adjust as needed) */
   border: none; /* Removes any border */
   z-index: 9999; /* Ensures it stays on top of all other content */
 }
@@ -25,19 +25,22 @@ body {
 /* Mobile View (Portrait & Landscape) */
 @media only screen and (max-width: 480px) {
   #chatbot-frame {
-      width: 100px; /* Set width for mobile (adjust as needed) */
-      height: 100px; /* Set height for mobile (adjust as needed) */
+      width: 100%; /* Full width for mobile */
+      height: 100%; /* Full height of the viewport */
+      bottom: 0; /* Stick to the bottom */
+      right: 0; /* Stick to the right */
   }
 }
 
 /* Tablet View (Portrait & Landscape) */
 @media only screen and (max-width: 768px) {
   #chatbot-frame {
-      width: 100px; /* Set width for tablets (adjust as needed) */
-      height: 100px; /* Set height for tablets (adjust as needed) */
+      width: 100%; /* Full width for tablets */
+      height: 100vh; /* Full height of the viewport */
+      bottom: 0; /* Stick to the bottom */
+      right: 0; /* Stick to the right */
   }
 }
-
 
 
 .layout_padding2 {
